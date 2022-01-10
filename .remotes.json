@@ -2,6 +2,12 @@
   {
     "package": "rhdx",
     "url": "https://github.com/dickoa/rhdx",
+    "via": ["malawi"],
+    "from": "malawi"
+  },
+  {
+    "package": "rhdx",
+    "url": "https://github.com/dickoa/rhdx",
     "via": ["mozambique"],
     "from": "mozambique"
   }
