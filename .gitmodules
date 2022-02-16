@@ -23,3 +23,8 @@
 	url = https://github.com/spatialworks/malawi
 	shallow = true
 	registered = true
+[submodule "rhdx"]
+	path = rhdx
+	url = https://github.com/dickoa/rhdx
+	shallow = true
+	registered = false
