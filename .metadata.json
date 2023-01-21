@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "spatialsampler"
+  },
+  {
+    "package": "mozambique"
+  },
+  {
+    "package": "liberia"
+  },
+  {
+    "package": "malawi"
+  }
+]

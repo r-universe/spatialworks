@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/spatialworks/universe
 	shallow = true
 	branch = HEAD
+[submodule "spatialsampler"]
+	path = spatialsampler
+	url = https://github.com/spatialworks/spatialsampler
+	shallow = true
+	registered = true
+[submodule "mozambique"]
+	path = mozambique
+	url = https://github.com/spatialworks/mozambique
+	shallow = true
+	registered = true
+[submodule "liberia"]
+	path = liberia
+	url = https://github.com/spatialworks/liberia
+	shallow = true
+	registered = true
+[submodule "malawi"]
+	path = malawi
+	url = https://github.com/spatialworks/malawi
+	shallow = true
+	registered = true
