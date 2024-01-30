@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/spatialworks/universe
+	url = https://github.com/spatialworks/spatialworks.r-universe.dev
 	branch = HEAD
 [submodule "liberia"]
 	path = liberia
