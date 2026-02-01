@@ -11,10 +11,6 @@
 [submodule "mozambique"]
 	path = mozambique
 	url = https://github.com/spatialworks/mozambique
-[submodule "rhdx"]
-	path = rhdx
-	url = https://github.com/dickoa/rhdx
-	registered = false
 [submodule "spatialsampler"]
 	path = spatialsampler
 	url = https://github.com/spatialworks/spatialsampler
